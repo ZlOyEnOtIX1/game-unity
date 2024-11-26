@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f79c76edd3f9a34aa3384c401d43550, type: 3}
+  m_Name: Earths
+  m_EditorClassIdentifier: 
+  name: "\u0417\u0435\u043C\u043B\u044F"
+  maxStack: 999
+  sprite: {fileID: 21300000, guid: aba31d5a1fd159f45bc24ba5591c8c56, type: 3}
+  go: {fileID: 2913687128347112528, guid: e8a0dd201a92f36459ffd8057c5d819a, type: 3}
+  resistance: 0.1
+  maximum_count_dropped_blocks: 1
+  id: 0
